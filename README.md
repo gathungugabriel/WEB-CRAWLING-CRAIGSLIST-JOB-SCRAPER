@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/craigslist-job-scraper.git
+https://github.com/gathungugabriel/WEB-CRAWLING-CRAIGSLIST-JOB-SCRAPER.git
 Install the required Python packages:
 
 bash
